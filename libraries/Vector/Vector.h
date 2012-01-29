@@ -1,7 +1,7 @@
 #ifndef __Vector__
 #define __Vector__
 
-#include "WProgram.h"
+#include "stdlib.h"
 
 template<typename Data>
 class Vector {
