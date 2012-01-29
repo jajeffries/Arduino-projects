@@ -1,6 +1,8 @@
 #ifndef __Vector__
 #define __Vector__
 
+#include "WProgram.h"
+
 template<typename Data>
 class Vector {
 public:
